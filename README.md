@@ -7,5 +7,5 @@ Subject :Project management with git
 Subject Code :BCS358C
 Academic Year :2024/25
 Mobile number:8834564890
-Email id :saniyasubhan789@gmail.com
+
 
