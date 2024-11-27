@@ -1,0 +1,8 @@
+Title:Ms
+Full Name:Saniya subhan
+USN:1WT23CS039
+Semester:Third
+Sec:A
+Branch:CSE
+Year of admission:2023
+College name :GIT
