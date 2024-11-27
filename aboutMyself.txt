@@ -6,3 +6,5 @@ Sec:A
 Branch:CSE
 Year of admission:2023
 College name :GIT
+UG Degree:B.E-Computer science Engineering
+
